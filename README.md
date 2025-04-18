@@ -1,6 +1,7 @@
 #  Chocolate Sales Performance Dashboard
 ## Dashboard
-![Dashboard Preview]("C:\Users\USER\Desktop\Content\Chocolate sales Dashboard (1)_page-0001.jpg")
+
+![Chocolate sales Dashboard (1)_page-0001](https://github.com/user-attachments/assets/faed1818-852a-49a8-abc2-b75cb2a36dba)
 
 ## Project Overview
 
@@ -28,7 +29,8 @@ Two important custom columns were derived using Power Query to enhance analysis:
 - **Day Type (Weekday/Weekend)**
   - `Weekday` → Monday to Friday  
   - `Weekend` → Saturday and Sunday
-
+    
+- **Other key Performances Indicator were derived using Dax**
 These transformations enabled clearer segmentation of data and allowed for focused insight extraction.
 
 ---
@@ -42,6 +44,7 @@ These transformations enabled clearer segmentation of data and allowed for focus
 - **Highest Revenue Product:** Smooth Silky Salty Chocolate ($349.69K)  
 - **Top Revenue Country:** Australia ($1.14M)  
 - **Most Active Order Day:** Monday (253 orders)
+-  **Most Active Sales Month:** Januray ($0.9M)
 
 ---
 
